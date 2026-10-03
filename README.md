@@ -13,6 +13,7 @@ here: rebuild them there and copy the result over.
 | Folder | Mod |
 |---|---|
 | `better-creative/` | Better Creative |
+| `creative-admin/` | Creative Admin |
 
 Copyright (C) 2026 THEFricadelle. All rights reserved. These images are published only to be shown
 on the mods' pages.
@@ -37,6 +38,7 @@ modifiez pas ici : reconstruisez-les là-bas et recopiez le résultat.
 | Dossier | Mod |
 |---|---|
 | `better-creative/` | Better Creative |
+| `creative-admin/` | Creative Admin |
 
 Copyright (C) 2026 THEFricadelle. Tous droits réservés. Ces images sont publiées uniquement pour
 être affichées sur les pages des mods.
