@@ -14,6 +14,7 @@ here: rebuild them there and copy the result over.
 |---|---|
 | `better-creative/` | Better Creative |
 | `creative-admin/` | Creative Admin |
+| `drop-the-beam/` | Drop the Beam |
 
 Copyright (C) 2026 THEFricadelle. All rights reserved. These images are published only to be shown
 on the mods' pages.
@@ -39,6 +40,7 @@ modifiez pas ici : reconstruisez-les là-bas et recopiez le résultat.
 |---|---|
 | `better-creative/` | Better Creative |
 | `creative-admin/` | Creative Admin |
+| `drop-the-beam/` | Drop the Beam |
 
 Copyright (C) 2026 THEFricadelle. Tous droits réservés. Ces images sont publiées uniquement pour
 être affichées sur les pages des mods.
