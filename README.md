@@ -15,6 +15,8 @@ here: rebuild them there and copy the result over.
 | `better-creative/` | Better Creative |
 | `creative-admin/` | Creative Admin |
 | `drop-the-beam/` | Drop the Beam |
+| `festive-skies/` | Festive Skies |
+| `festive-skies/` | Festive Skies |
 
 Copyright (C) 2026 THEFricadelle. All rights reserved. These images are published only to be shown
 on the mods' pages.
