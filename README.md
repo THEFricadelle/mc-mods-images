@@ -14,6 +14,7 @@ here: rebuild them there and copy the result over.
 |---|---|
 | `better-creative/` | Better Creative |
 | `creative-admin/` | Creative Admin |
+| `customperm/` | CustomPerm |
 | `drop-the-beam/` | Drop the Beam |
 | `festive-skies/` | Festive Skies |
 
@@ -41,6 +42,7 @@ modifiez pas ici : reconstruisez-les là-bas et recopiez le résultat.
 |---|---|
 | `better-creative/` | Better Creative |
 | `creative-admin/` | Creative Admin |
+| `customperm/` | CustomPerm |
 | `drop-the-beam/` | Drop the Beam |
 | `festive-skies/` | Festive Skies |
 
